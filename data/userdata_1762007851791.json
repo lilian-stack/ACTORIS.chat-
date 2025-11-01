@@ -106,8 +106,11 @@
   ],
   "friendRequests": [],
   "favorites": [],
-  "lastSeen": "2025-11-01T21:48:50.282Z",
+  "lastSeen": "2025-11-01T21:52:07.322Z",
   "chatHistory": {},
   "avatar": null,
-  "avatarHistory": []
+  "avatarHistory": [],
+  "lastKnownGameIds": [
+    "367520"
+  ]
 }
